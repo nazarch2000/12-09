@@ -76,7 +76,9 @@ select * from test_table;
 ### Задание 2*
 
 Создайте кластер, как в задании 1 с помощью Terraform.
-
+![image](https://github.com/nazarch2000/12-09/assets/106932460/6ac0dc1d-90ba-42ba-a6cd-1869eefcda7f)
+![image](https://github.com/nazarch2000/12-09/assets/106932460/b75aecef-bb3e-4228-8171-961e2380a8a5)
 ![image](https://github.com/nazarch2000/12-09/assets/106932460/6f4f968f-a463-460e-a765-d5da39b0ae92)
  
  [Файл terraform](main.tf)
+ 
