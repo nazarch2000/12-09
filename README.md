@@ -70,7 +70,6 @@ select * from test_table;
 *2) Результата вывода команды на реплике ```select * from test_table;```.*
 
 ![image](https://github.com/nazarch2000/12-09/assets/106932460/4a82a934-a3f8-44cb-9f58-b6c147966b98)
-![image](https://github.com/nazarch2000/12-09/assets/106932460/cd17f11d-078d-4334-b97e-457a726e946b)
 ![image](https://github.com/nazarch2000/12-09/assets/106932460/fb83027e-ef84-4f3b-94be-222ed73bb13b)
 
 ### Задание 2*
